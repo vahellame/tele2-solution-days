@@ -31,7 +31,7 @@ SetLogLevel(0)
 MODEL = Model("model")
 
 POSTGRES_CONNECTION_PARAMS = {
-    "dbname": "sber",
+    "dbname": "tele2_solution_days",
     "user": "postgres",
     "password": "21",
     "host": "localhost",
